@@ -24,7 +24,7 @@ Make sure you have **Python 3.x** installed on your system. You can download it 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Chando0185/Crop_Recommendation.git
+   git clone https://github.com/muralinp02/Crop-Recommendation-System.git
    ```
 
 2. Navigate to the project directory:
@@ -98,4 +98,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### You can update this as necessary depending on additional features or changes you have in the project.
